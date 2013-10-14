@@ -2,8 +2,8 @@ cowwwsay-android
 ================
 
  ________________________________________
-/ Android app that gets cowsays from tha \
-\ cowwwsay server                        /
+/ Android app that gets cowsays from     \
+\ www.cowwwsay.com                       /
  ----------------------------------------
         \   ^__^
          \  (oo)\_______
